@@ -1,0 +1,65 @@
+#h_and_f {
+    text-align:center;
+    background-color: rgb(233 201 170);
+    padding: 5px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+
+}
+#name:hover {
+    width: 300px
+}
+nav {
+    background-color: paleturquoise;
+
+}
+#nav li{
+    display: inline-block;
+    position: relative;
+
+}
+#apple:hover{
+    background-color: rgb(240, 31, 209);;
+
+}
+#google:hover{
+    background-color: rgb(240, 31, 209);
+
+}
+#gator:hover{
+    background-color: rgb(240, 31, 209);
+
+}
+.main_area {
+    float: left;
+    width:65%;
+    background-color: green;
+    margin-bottom: 20px;
+    height: 30%;
+    text-align: left;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+#sidebar {
+    width:30%;
+    float: right;
+    background-color: purple;
+    margin-bottom: 20px;
+    text-align: left;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+
+footer {
+    clear: both;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#sidebar:hover {
+    background-color: pink;
+}
