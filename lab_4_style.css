@@ -1,0 +1,54 @@
+.box {
+    background-color: pink;
+    width:45%;
+    height:5%;
+    border-radius: 5px;
+    border: 3px solid beige;
+    margin:8px;
+    text-align: center;
+}
+
+body{
+    background-color: paleturquoise;
+}
+
+#box_1{
+    float:left;
+    
+}
+
+#box_2{
+    float:right;
+    
+}
+
+#box_3{
+    float:left;
+}
+
+#box_4{
+    float:right;
+    
+}
+
+.form_style{
+margin-left: 20px;
+margin-top:10px;
+}
+
+.text_div {
+margin-top: 10px;
+}
+
+.change_color{
+margin-top: 10px;
+}
+
+#add_button{
+    margin-top:8px
+}
+
+.text_test {
+    margin-left: 20px;
+    margin-top:10px;
+}
